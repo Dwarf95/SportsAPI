@@ -6,4 +6,4 @@
 <a href="https://www.python.org/">Python</a>
 
 <h2>Django<h2>
-<a href="https://www.django-rest-framework.org/">Python</a>
+<a href="https://www.django-rest-framework.org/">Django REST</a>
